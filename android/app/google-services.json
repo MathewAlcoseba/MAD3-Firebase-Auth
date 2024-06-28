@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659929800170",
+    "project_id": "mad3-firebase-auth",
+    "storage_bucket": "mad3-firebase-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659929800170:android:27ec02f7af0259fb0aa693",
+        "android_client_info": {
+          "package_name": "com.example.state_change_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmL2ZvKnPu9SpQLstppfOglGlZNr7jcf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
